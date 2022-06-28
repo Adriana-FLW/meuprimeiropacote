@@ -1,0 +1,21 @@
+Package: meuprimeiropacote
+Title: Exemplo de como criar um pacote
+Version: 0.0.0.9000
+Authors@R: 
+    person("Adriana", "FLW", , "adriana.flw@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.0
+Imports: 
+    dplyr,
+    lubridate,
+    magrittr,
+    readr
+Depends: 
+    R (>= 2.10)
+LazyData: true
+URL: https://github.com/Adriana-FLW/meuprimeiropacote
+BugReports: https://github.com/Adriana-FLW/meuprimeiropacote/issues
