@@ -17,7 +17,7 @@ media_vol(reservoir, year = 2022, month = 4)
 uma tibble
 }
 \description{
-Esta funcao calcula a media de volume (\%) armazenado, ...
+Esta funcao calcula a media de volume (\%) armazenado, ...teste
 }
 \examples{
 media_vol('Cantareira')

@@ -1,0 +1,27 @@
+---
+title: "Calculofuncoes"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Calculofuncoes}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(meuprimeiropacote)
+```
+
+Acrescentar comentários sobre o pacote, detalhar funções:
+
+```{r}
+media_vol('Cantareira') |>
+  dplyr::glimpse()
+```
+
