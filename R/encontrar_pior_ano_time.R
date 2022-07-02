@@ -1,6 +1,6 @@
 #' Pior time
 #'
-#' Esse programa retorna o prior time da temporada. teste
+#' Esse programa retorna o prior time da temporada. teste2
 #'
 #' @param time nome do time
 #'
